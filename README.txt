@@ -12,3 +12,7 @@ windows10 Pro
 VisualStudioCode
 Python3.12.2
 Pyinstaller
+XXXX注意事項XXXXX
+本ソフトはWindowsセキュリティ(旧Windows Defender)によって、
+トロイの木馬判定を食らいますが、これはウイルスではありません。
+予算がなく、デジタル署名がつけられないだけなのです。
